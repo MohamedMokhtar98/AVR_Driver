@@ -13,4 +13,12 @@
 #define TOG_BIT(VAR,BIT)   VAR ^= (1<<BIT)
 #define GET_BIT(VAR,BIT)   ((VAR >> BIT) & 1)
 
+#ifndef __SFR_OFFSET
+#  if __AVR_ARCH__ >= 100
+#    define __SFR_OFFSET 0x00
+#  else
+#    define __SFR_OFFSET 0x20
+#  endif
+#endif
+
 #endif
