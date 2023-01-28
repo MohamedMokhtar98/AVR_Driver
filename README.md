@@ -1,6 +1,6 @@
 # AVR ATMEGA32 Drivers 
 
-Hi, This a repo for AVR ATMEGA32 MCU, that contain MCAL and HAL driver, this repo will be updated as frequently, this repo is opensource you can use it as you mention the author, me ^_^  
+Hi, This a repo for AVR ATMEGA32 MCU, that contain MCAL and HAL driver, this repo will be updated frequently, this repo is opensource you can use it as you mention the author, me ^_^  
 **If you need to edit or add a new file or future please contact me.**
 
 
