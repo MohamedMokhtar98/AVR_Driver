@@ -51,15 +51,15 @@
 /*************************************************************************/
 
 /******************* ProtoTypes Global Function Section*******************/
-State DIO_SetPortDir(u8 DIO_Port, u8 DIO_Dir);
+extern State DIO_SetPortDir(u8 DIO_Port, u8 DIO_Dir);
 
-State DIO_SetPortValue(u8 DIO_Port, u8 DIO_PORT_Value);
+extern State DIO_SetPortValue(u8 DIO_Port, u8 DIO_PORT_Value);
 
-State DIO_SetPinDir(u8 DIO_Port, u8 DIO_Pin, u8 DIO_Pin_Dir);
+extern State DIO_SetPinDir(u8 DIO_Port, u8 DIO_Pin, u8 DIO_Pin_Dir);
 
-State DIO_SetPinValue(u8 DIO_Port, u8 DIO_Pin, u8 DIO_Pin_Value);
+extern State DIO_SetPinValue(u8 DIO_Port, u8 DIO_Pin, u8 DIO_Pin_Value);
 
-State DIO_GetPinValue(u8 DIO_Port, u8 DIO_Pin, u8 *DIO_PointerToReturnValue);
+extern State DIO_GetPinValue(u8 DIO_Port, u8 DIO_Pin, u8 *DIO_PointerToReturnValue);
 /*************************************************************************/
 
 

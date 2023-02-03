@@ -25,8 +25,8 @@
 /**************************************************************************/
 
 /******************* ProtoTypes Global Function Section *******************/
-void ADC_Init(u8 Channel);
-u16 ADC_Read(u8 Channel);
+extern void ADC_Init(u8 Channel);
+extern u16 ADC_Read(u8 Channel);
 /**************************************************************************/
 
 
