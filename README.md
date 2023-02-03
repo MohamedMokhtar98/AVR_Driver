@@ -15,8 +15,8 @@ This folder has a header files and source files for internal peripherals of ATME
  1. DIO (**D**igital **I**nput **O**utput)
  2. ADC (**A**nalog to **D**igital **C**onverter)
  3. Timers
- 4. PWMs (**P**ulls **W**idth **M**odulation)
- 5. SwPWM (**S**oftware **P**ulls **W**idth **M**odulation)
+ 4. PWMs (**P**ulse **W**idth **M**odulation)
+ 5. SwPWM (**S**oftware **P**ulse **W**idth **M**odulation)
  6. USART (**U**niversal **S**ynchronous/**A**synchronous **R**eceiver/**T**ransmitter)
  7. SPI (**S**erial **P**eripheral **I**nterface)
  8. I2C (**I**nter-**I**ntegrated **C**ircuit)
