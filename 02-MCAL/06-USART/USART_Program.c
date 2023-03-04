@@ -9,6 +9,7 @@
 #include "STD_TYPES.h"
 #include "BIT_MATH.h"
 #include <stdlib.h>
+#include <avr/interrupt.h>
 #include "USART_Interface.h"
 
 // TODO Add SetCallBack function
